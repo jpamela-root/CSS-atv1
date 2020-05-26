@@ -1,1 +1,1 @@
-https://github.com/jpamela-root/CSS-atv1/blob/master/bordas.html
+https://github.io/bordas.html
